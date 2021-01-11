@@ -1,7 +1,9 @@
 ### Hi there 👋
+- 🌱 I’m a college student. 
+- And I'm currently learning the blockchain framework Hyperledger and the programing language Golang.
 
 <!--
-**Chasecheese/Chasecheese** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**chasecheese/chasecheese** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
